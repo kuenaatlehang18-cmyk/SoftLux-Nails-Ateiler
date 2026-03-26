@@ -3,10 +3,6 @@ body{ background-image:url(save.jpg) ;
       margin-left: 1500px;
       margin-right: 150px;
  }
-.background-text {
-  width: 80%;
-  margin-left: 40px;
-}
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #333;
